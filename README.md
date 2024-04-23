@@ -9,11 +9,11 @@
 ### Speech开发工具黄页
 VAD - 项目 - [SileroVAD](https://github.com/snakers4/silero-vad)
 
-ASR - 项目 - [OpenAI Whisper](https://github.com/ZhaZhaFon/whisper-run)
+ASR - 项目 - [Whisper](https://github.com/ZhaZhaFon/whisper-run)
 
-数据 - 英语语料库 - [OpenSLR LibriSpeech](https://www.openslr.org/12/)
+数据 - 英语语料库 - [LibriSpeech](https://www.openslr.org/12/)
 
 ### 我的主页
-项目 - [ToolBox @ GitHub](https://github.com/ZhaZhaFon/toolbox)
+项目 - [ToolBox](https://github.com/ZhaZhaFon/toolbox)
 
 
